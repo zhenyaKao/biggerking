@@ -24,7 +24,6 @@ Stock & Order System can show only with screen bigger than 1024px
   - SASS <br>
   
 ✔ Vue 2.6
-  - ESLint6
   - Vuex
   - Router
   - Vuetify <br>
